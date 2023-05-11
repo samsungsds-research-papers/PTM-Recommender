@@ -10,7 +10,6 @@ Download base models from https://huggingface.co/
 
 | albert-base-v2                    | albert-large-v2              | albert-large-v2                      | albert-large-v2                       |
 | :-------------------------------- | :--------------------------- | :----------------------------------- | :------------------------------------ |
-| **albert-large-v2**         | **albert-large-v2**    | **bert-base-uncased**          | **bert-large-uncased**          |
 | **distilbert-base-uncased** | **distilroberta-base** | **electra-base-discriminator** | **electra-large-discriminator** |
 | **roberta-base**            | **roberta-large**      | **xlm-roberta-base**           | **xlm-roberta-large**           |
 
