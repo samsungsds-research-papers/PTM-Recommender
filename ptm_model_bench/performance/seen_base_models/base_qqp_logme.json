@@ -1,0 +1,14 @@
+{
+    "albert-base-v2": -0.4429383108712035,
+    "albert-large-v2": -0.41913556590329115,
+    "bert-base-uncased": -0.4994157108056997,
+    "bert-large-uncased": -0.4903132494610441,
+    "distilbert-base-uncased": -0.5051761784519649,
+    "distilroberta-base": -0.505435342475343,
+    "electra-base-discriminator": -0.414138798529444,
+    "electra-large-discriminator": -0.3726675043058948,
+    "roberta-base": -0.48055349846642736,
+    "roberta-large": -0.47491526367652426,
+    "xlm-roberta-base": -0.49384387648568356,
+    "xlm-roberta-large": -0.46726842604620633
+}

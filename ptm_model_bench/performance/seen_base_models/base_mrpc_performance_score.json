@@ -1,0 +1,100 @@
+{
+    "mrpc": {
+        "albert-base-v2": {
+            "eval_accuracy": 0.8725490196,
+            "eval_matthews_correlation": 0.6973375936,
+            "eval_pearson": 0.6973375936,
+            "eval_spearman": 0.6973375936,
+            "eval_acc": 0.8725490196,
+            "eval_f1": 0.9100346021
+        },
+        "albert-large-v2": {
+            "eval_accuracy": 0.8431372549,
+            "eval_matthews_correlation": 0.6357656443,
+            "eval_pearson": 0.6357656443,
+            "eval_spearman": 0.6357656443,
+            "eval_acc": 0.8431372549,
+            "eval_f1": 0.8857142857
+        },
+        "bert-base-uncased": {
+            "eval_accuracy": 0.8284313725,
+            "eval_matthews_correlation": 0.5911020058,
+            "eval_pearson": 0.5911020058,
+            "eval_spearman": 0.5911020058,
+            "eval_acc": 0.8284313725,
+            "eval_f1": 0.8784722222
+        },
+        "bert-large-uncased": {
+            "eval_accuracy": 0.7916666667,
+            "eval_matthews_correlation": 0.4870066689,
+            "eval_pearson": 0.4870066689,
+            "eval_spearman": 0.4870066689,
+            "eval_acc": 0.7916666667,
+            "eval_f1": 0.8608837971
+        },
+        "distilbert-base-uncased": {
+            "eval_accuracy": 0.8480392157,
+            "eval_matthews_correlation": 0.6384807433,
+            "eval_pearson": 0.6384807433,
+            "eval_spearman": 0.6384807433,
+            "eval_acc": 0.8480392157,
+            "eval_f1": 0.8923611111
+        },
+        "distilroberta-base": {
+            "eval_accuracy": 0.8382352941,
+            "eval_matthews_correlation": 0.6131913189,
+            "eval_pearson": 0.6131913189,
+            "eval_spearman": 0.6131913189,
+            "eval_acc": 0.8382352941,
+            "eval_f1": 0.8862068966
+        },
+        "electra-base-discriminator": {
+            "eval_accuracy": 0.887254902,
+            "eval_matthews_correlation": 0.7338886748,
+            "eval_pearson": 0.7338886748,
+            "eval_spearman": 0.7338886748,
+            "eval_acc": 0.887254902,
+            "eval_f1": 0.9195804196
+        },
+        "electra-large-discriminator": {
+            "eval_accuracy": 0.887254902,
+            "eval_matthews_correlation": 0.7382247818,
+            "eval_pearson": 0.7382247818,
+            "eval_spearman": 0.7382247818,
+            "eval_acc": 0.887254902,
+            "eval_f1": 0.9178571429
+        },
+        "roberta-base": {
+            "eval_accuracy": 0.8995098039,
+            "eval_matthews_correlation": 0.7671356622,
+            "eval_pearson": 0.7671356622,
+            "eval_spearman": 0.7671356622,
+            "eval_acc": 0.8995098039,
+            "eval_f1": 0.9266547406
+        },
+        "roberta-large": {
+            "eval_accuracy": 0.7745098039,
+            "eval_matthews_correlation": 0.4384573634,
+            "eval_pearson": 0.4384573634,
+            "eval_spearman": 0.4384573634,
+            "eval_acc": 0.7745098039,
+            "eval_f1": 0.8516129032
+        },
+        "xlm-roberta-base": {
+            "eval_accuracy": 0.8651960784,
+            "eval_matthews_correlation": 0.6852541199,
+            "eval_pearson": 0.6852541199,
+            "eval_spearman": 0.6852541199,
+            "eval_acc": 0.8651960784,
+            "eval_f1": 0.9023090586
+        },
+        "xlm-roberta-large": {
+            "eval_accuracy": 0.7867647059,
+            "eval_matthews_correlation": 0.4735227634,
+            "eval_pearson": 0.4735227634,
+            "eval_spearman": 0.4735227634,
+            "eval_acc": 0.7867647059,
+            "eval_f1": 0.8589951378
+        }
+    }
+}

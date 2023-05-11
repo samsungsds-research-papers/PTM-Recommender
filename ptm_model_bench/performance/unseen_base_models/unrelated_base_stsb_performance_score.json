@@ -1,0 +1,132 @@
+{
+    "stsb": {
+        "bert-base-cased": {
+            "eval_pearson": 0.8726459955,
+            "eval_spearman": 0.8689692199
+        },
+        "bert-large-cased": {
+            "eval_pearson": 0.8802857258,
+            "eval_spearman": 0.8790999689
+        },
+        "bert-base-multilingual-uncased": {
+            "eval_pearson": 0.8709214964,
+            "eval_spearman": 0.8708399988
+        },
+        "bert-base-multilingual-cased": {
+            "eval_pearson": 0.8561876876,
+            "eval_spearman": 0.855294819
+        },
+        "bert-base-chinese": {
+            "eval_pearson": 0.7931743688,
+            "eval_spearman": 0.7917956738
+        },
+        "bert-base-german-cased": {
+            "eval_pearson": 0.8360174802,
+            "eval_spearman": 0.8326560696
+        },
+        "bert-large-uncased-whole-word-masking": {
+            "eval_pearson": 0.8748417384,
+            "eval_spearman": 0.8792739085
+        },
+        "bert-large-cased-whole-word-masking": {
+            "eval_pearson": 0.8759415332,
+            "eval_spearman": 0.8770489906
+        },
+        "bert-base-german-dbmdz-cased": {
+            "eval_pearson": 0.8474017869,
+            "eval_spearman": 0.8445856301
+        },
+        "bert-base-german-dbmdz-uncased": {
+            "eval_pearson": 0.8608406885,
+            "eval_spearman": 0.8569137802
+        },
+        "bert-base-japanese": {
+            "eval_pearson": 0.8321290836,
+            "eval_spearman": 0.8313657125
+        },
+        "bert-base-japanese-whole-word-masking": {
+            "eval_pearson": 0.8206607169,
+            "eval_spearman": 0.8207015863
+        },
+        "bert-base-japanese-char": {
+            "eval_pearson": 0.8049374813,
+            "eval_spearman": 0.8074485601
+        },
+        "bert-base-finnish-cased-v1": {
+            "eval_pearson": 0.8413849799,
+            "eval_spearman": 0.8388039297
+        },
+        "bert-base-finnish-uncased-v1": {
+            "eval_pearson": 0.8626889779,
+            "eval_spearman": 0.8589323581
+        },
+        "bert-base-dutch-cased": {
+            "eval_pearson": 0.8098885612,
+            "eval_spearman": 0.8091007491
+        },
+        "roberta-large-mnli": {
+            "eval_pearson": 0.9095033126,
+            "eval_spearman": 0.9098995844
+        },
+        "roberta-base-openai-detector": {
+            "eval_pearson": 0.8816035224,
+            "eval_spearman": 0.8796982309
+        },
+        "roberta-large-openai-detector": {
+            "eval_pearson": 0.8851421076,
+            "eval_spearman": 0.8851885282
+        },
+        "distilbert-base-cased": {
+            "eval_pearson": 0.8406390564,
+            "eval_spearman": 0.8387829678
+        },
+        "distilbert-base-german-cased": {
+            "eval_pearson": 0.8167734513,
+            "eval_spearman": 0.8150838002
+        },
+        "distilbert-base-multilingual-cased": {
+            "eval_pearson": 0.8450858676,
+            "eval_spearman": 0.8428666343
+        },
+        "camembert-base": {
+            "eval_pearson": 0.8355594292,
+            "eval_spearman": 0.8367430551
+        },
+        "flaubert_small_cased": {
+            "eval_pearson": 0.1635114531,
+            "eval_spearman": 0.1368910712
+        },
+        "flaubert_base_uncased": {
+            "eval_pearson": 0.1148187019,
+            "eval_spearman": 0.0860513173
+        },
+        "flaubert_base_cased": {
+            "eval_pearson": 0.1326723039,
+            "eval_spearman": 0.1187456068
+        },
+        "flaubert_large_cased": {
+            "eval_pearson": 0.1007966229,
+            "eval_spearman": 0.0852452314
+        },
+        "small-base": {
+            "eval_pearson": 0.8735567772,
+            "eval_spearman": 0.8786356412
+        },
+        "medium-base": {
+            "eval_pearson": 0.8876222252,
+            "eval_spearman": 0.891232915
+        },
+        "intermediate-base": {
+            "eval_pearson": 0.8965863795,
+            "eval_spearman": 0.8989891303
+        },
+        "large-base": {
+            "eval_pearson": 0.828302253,
+            "eval_spearman": 0.8384657487
+        },
+        "xlm-roberta-base": {
+            "eval_pearson": 0.8656436564,
+            "eval_spearman": 0.8614864888
+        }
+    }
+}

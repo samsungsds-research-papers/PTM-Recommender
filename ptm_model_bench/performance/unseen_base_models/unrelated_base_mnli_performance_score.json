@@ -1,0 +1,100 @@
+{
+    "mnli": {
+        "bert-base-cased": {
+            "eval_accuracy": 0.842453214
+        },
+        "bert-large-cased": {
+            "eval_accuracy": 0.8633034988
+        },
+        "bert-base-multilingual-uncased": {
+            "eval_accuracy": 0.8305532954
+        },
+        "bert-base-multilingual-cased": {
+            "eval_accuracy": 0.8267900732
+        },
+        "bert-base-chinese": {
+            "eval_accuracy": 0.7306753458
+        },
+        "bert-base-german-cased": {
+            "eval_accuracy": 0.7535598047
+        },
+        "bert-large-uncased-whole-word-masking": {
+            "eval_accuracy": 0.875
+        },
+        "bert-large-cased-whole-word-masking": {
+            "eval_accuracy": 0.8721521562
+        },
+        "bert-base-german-dbmdz-cased": {
+            "eval_accuracy": 0.7802074858
+        },
+        "bert-base-german-dbmdz-uncased": {
+            "eval_accuracy": 0.7937347437
+        },
+        "bert-base-japanese": {
+            "eval_accuracy": 0.7270138324
+        },
+        "bert-base-japanese-whole-word-masking": {
+            "eval_accuracy": 0.7341334418
+        },
+        "bert-base-japanese-char": {
+            "eval_accuracy": 0.7106387307
+        },
+        "bert-base-finnish-cased-v1": {
+            "eval_accuracy": 0.7633238405
+        },
+        "bert-base-finnish-uncased-v1": {
+            "eval_accuracy": 0.7727827502
+        },
+        "bert-base-dutch-cased": {
+            "eval_accuracy": 0.7446094386
+        },
+        "roberta-large-mnli": {
+            "eval_accuracy": 0.9010374288
+        },
+        "roberta-base-openai-detector": {
+            "eval_accuracy": 0.8647274207
+        },
+        "roberta-large-openai-detector": {
+            "eval_accuracy": 0.9037835639
+        },
+        "distilbert-base-cased": {
+            "eval_accuracy": 0.8206875509
+        },
+        "distilbert-base-german-cased": {
+            "eval_accuracy": 0.7234540277
+        },
+        "distilbert-base-multilingual-cased": {
+            "eval_accuracy": 0.7920056957
+        },
+        "camembert-base": {
+            "eval_accuracy": 0.3295362083
+        },
+        "flaubert_small_cased": {
+            "eval_accuracy": 0.6020138324
+        },
+        "flaubert_base_uncased": {
+            "eval_accuracy": 0.5752644426
+        },
+        "flaubert_base_cased": {
+            "eval_accuracy": 0.7538649308
+        },
+        "flaubert_large_cased": {
+            "eval_accuracy": 0.7903783564
+        },
+        "small-base": {
+            "eval_accuracy": 0.8821196094
+        },
+        "medium-base": {
+            "eval_accuracy": 0.3295362083
+        },
+        "intermediate-base": {
+            "eval_accuracy": 0.3522172498
+        },
+        "large-base": {
+            "eval_accuracy": 0.9038852726
+        },
+        "xlm-roberta-base": {
+            "eval_accuracy": 0.8513018714
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "albert-base-v2": 2.436084943262271,
+    "albert-large-v2": 3.907421708659033,
+    "bert-base-uncased": 1.9115015549407472,
+    "bert-large-uncased": 3.7158797182568826,
+    "distilbert-base-uncased": 1.89663275258415,
+    "distilroberta-base": 1.3191987291375855,
+    "electra-base-discriminator": 1.1828968406628697,
+    "electra-large-discriminator": 2.416735985410598,
+    "roberta-base": 1.2739151834464688,
+    "roberta-large": 2.7641264793863063,
+    "xlm-roberta-base": 0.7870303265618579,
+    "xlm-roberta-large": 1.8340333300998377
+}

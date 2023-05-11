@@ -1,0 +1,52 @@
+{
+    "stsb": {
+        "albert-base-v2": {
+            "eval_pearson": 0.905224386,
+            "eval_spearman": 0.9028002842
+        },
+        "albert-large-v2": {
+            "eval_pearson": 0.9014667854,
+            "eval_spearman": 0.8987455589
+        },
+        "bert-base-uncased": {
+            "eval_pearson": 0.8832013054,
+            "eval_spearman": 0.8791329671
+        },
+        "bert-large-uncased": {
+            "eval_pearson": 0.8676879218,
+            "eval_spearman": 0.8689740936
+        },
+        "distilbert-base-uncased": {
+            "eval_pearson": 0.8634684679,
+            "eval_spearman": 0.8617961456
+        },
+        "distilroberta-base": {
+            "eval_pearson": 0.8705085913,
+            "eval_spearman": 0.8696587755
+        },
+        "electra-base-discriminator": {
+            "eval_pearson": 0.8928036024,
+            "eval_spearman": 0.893793173
+        },
+        "electra-large-discriminator": {
+            "eval_pearson": 0.8918400282,
+            "eval_spearman": 0.8979907381
+        },
+        "roberta-base": {
+            "eval_pearson": 0.8955818602,
+            "eval_spearman": 0.8935827369
+        },
+        "roberta-large": {
+            "eval_pearson": 0.8988483535,
+            "eval_spearman": 0.8992659419
+        },
+        "xlm-roberta-base": {
+            "eval_pearson": 0.8656436564,
+            "eval_spearman": 0.8614864888
+        },
+        "xlm-roberta-large": {
+            "eval_pearson": 0.8644476334,
+            "eval_spearman": 0.8566828556
+        }
+    }
+}

@@ -94,7 +94,8 @@ class graph_embedding:
         from ptm_recommender.graph_models.gcnn.gin_utils import graph_to_s2vgraphs
         
         graphs, accuracies, model_nms = self.get_graph_acc_model_nms(task)
-        graphs_accuracies_nms = [(graphs[i], accuracies[i], model_nms[i]) for i in range(len(graphs))]               
+        graphs_accuracies_nms = [(graphs[i], accuracies[i], model_nms[i]) for i in range(len(graphs)) 
+                                 if accuracies[i] > 0.1]               
 
         random.seed(seed)
         random.shuffle(graphs_accuracies_nms)

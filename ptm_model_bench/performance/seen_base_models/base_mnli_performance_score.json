@@ -1,0 +1,40 @@
+{
+    "mnli": {
+        "albert-base-v2": {
+            "eval_accuracy": 0.8112286412
+        },
+        "albert-large-v2": {
+            "eval_accuracy": 0.8713384866
+        },
+        "bert-base-uncased": {
+            "eval_accuracy": 0.8416395443
+        },
+        "bert-large-uncased": {
+            "eval_accuracy": 0.850081367
+        },
+        "distilbert-base-uncased": {
+            "eval_accuracy": 0.8235353946
+        },
+        "distilroberta-base": {
+            "eval_accuracy": 0.842453214
+        },
+        "electra-base-discriminator": {
+            "eval_accuracy": 0.8867982099
+        },
+        "electra-large-discriminator": {
+            "eval_accuracy": 0.9126322213
+        },
+        "roberta-base": {
+            "eval_accuracy": 0.8780512612
+        },
+        "roberta-large": {
+            "eval_accuracy": 0.9060211554
+        },
+        "xlm-roberta-base": {
+            "eval_accuracy": 0.8513018714
+        },
+        "xlm-roberta-large": {
+            "eval_accuracy": 0.8920870627
+        }
+    }
+}
