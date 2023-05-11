@@ -104,4 +104,4 @@ python train_glue.py --predtraind_model_dir {path_of_PTM_model_folders} --logme_
 In this process, we modified publically avaible codes:
 
 * https://github.com/huggingface/transformers/blob/main/examples/legacy/question-answering/
-* ttps://github.com/huggingface/transformers/tree/main/examples/pytorch/text-classification
+* https://github.com/huggingface/transformers/tree/main/examples/pytorch/text-classification
