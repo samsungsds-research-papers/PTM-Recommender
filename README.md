@@ -76,6 +76,6 @@ In the image $\tau_k$ implies kendal tau, $\rho_p$ implies pearson and $\rho_s$ 
 
 ## Acknowledgements
 
-The code is based on
+The code is based on 
 
 * How Powerful are Graph Neural Networks? ([https://github.com/weihua916/powerful-gnns](https://github.com/weihua916/powerful-gnns))
